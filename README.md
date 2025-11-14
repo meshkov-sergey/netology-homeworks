@@ -7,4 +7,4 @@
 
 [Ссылка на network](https://github.com/meshkov-sergey/netology-homeworks/network)
 
-![alt text](https://github.com/meshkov-sergey/netology-homeworks/blob/master/img/network-graph-task3.png)
+![Git network graph](https://github.com/meshkov-sergey/netology-homeworks/blob/master/img/network-graph-task3.png)
