@@ -6,3 +6,5 @@
 [Ссылка на коммит gitignore](https://github.com/meshkov-sergey/netology-homeworks/commit/460bc1c063428e6e8d54aaf2bade99fb984b9a53)
 
 [Ссылка на network](https://github.com/meshkov-sergey/netology-homeworks/network)
+
+![alt text](https://github.com/meshkov-sergey/netology-homeworks/blob/master/img/network-graph-task3.png)
